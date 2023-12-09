@@ -1414,7 +1414,7 @@ select {
   margin-top: 14px;
 }
 
-.footer__item {
+.footer__item a {
   color: #656689;
   font-family: Poppins;
   font-size: 14px;
